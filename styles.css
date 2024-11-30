@@ -500,6 +500,9 @@ span{
         section{
             padding: 10rem 3% 2rem;
         }
+        .certifications{
+            box-sizing: border-box;
+        }
         .certifications::before{
             left: 7px;
         }
