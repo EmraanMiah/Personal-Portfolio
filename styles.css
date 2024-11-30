@@ -503,11 +503,11 @@ span{
         .certifications::before{
             left: 7px;
         }
-        .certfication:nth-child(odd){
+        .certification:nth-child(odd){
             padding-right: 0;
             text-align: left; 
         }
-        .certfication:nth-child(odd), .certification:nth-child(even){
+        .certification:nth-child(odd), .certification:nth-child(even){
             padding-left: 37px;
         }
         .certification-dot{
