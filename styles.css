@@ -579,7 +579,7 @@ span{
         }
     
         .certification-dot {
-            left: calc(50% - 10px); 
+            left: 0; 
         }
     
         .certification-info {
