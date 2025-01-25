@@ -345,7 +345,8 @@ span{
         color: rgb(0, 0, 255);
         text-decoration: none;
         line-height: 50px;
-        font-size: 18px
+        font-size: 18px;
+        text-align: center;
     }
     #link:hover{
         color: red;
